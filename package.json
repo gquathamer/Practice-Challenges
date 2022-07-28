@@ -1,0 +1,27 @@
+{
+  "name": "practice-challenges",
+  "version": "1.0.0",
+  "description": "A repository to practice JS challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gquathamer/Practice-Challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gquathamer/Practice-Challenges/issues"
+  },
+  "homepage": "https://github.com/gquathamer/Practice-Challenges#readme",
+  "devDependencies": {
+    "eslint": "^8.20.0",
+    "eslint-config-google": "^0.14.0"
+  },
+  "dependencies": {
+    "prettier": "^2.7.1"
+  }
+}
